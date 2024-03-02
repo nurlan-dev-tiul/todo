@@ -9,5 +9,5 @@
 3. Для Глобального стейта использовал Redux
 4. Для оформления использовал Bootstrap
 
-
+![Screenshot](https://github.com/nurlan-dev-tiul/todo/blob/main/todo.png)
 
